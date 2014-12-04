@@ -1,0 +1,17 @@
+{
+    "name": "polonskiy/PHProutine",
+    "description": "Goroutines in PHP",
+    "keywords": ["goroutines", "fork", "parallel processing", "phproutine"],
+    "license": "MIT",
+    "authors": [ {
+        "name": "Anton Polonskiy",
+        "email": "anton.polonskiy@gmail.com"
+    } ],
+    "require": {
+        "php": ">=5.3.0",
+        "ext-pcntl": "*"
+    },
+    "autoload": {
+        "psr-4": { "PHProutine": "src" }
+    }
+}
