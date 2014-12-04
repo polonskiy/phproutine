@@ -12,6 +12,6 @@
         "ext-pcntl": "*"
     },
     "autoload": {
-        "psr-4": { "PHProutine": "src" }
+        "psr-4": { "PHProutine\\": "src/" }
     }
 }
