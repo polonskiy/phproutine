@@ -1,5 +1,5 @@
 {
-    "name": "polonskiy/PHProutine",
+    "name": "polonskiy/phproutine",
     "description": "Goroutines in PHP",
     "keywords": ["goroutines", "fork", "parallel processing", "phproutine"],
     "license": "MIT",
